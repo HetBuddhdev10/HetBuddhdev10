@@ -12,11 +12,11 @@
 
 <h2 align="left">🌟 About me</h2>
 
-- ⭐ Student at Queen's University, specializing in Computer Engineering.
-- ⭐ Currently working on DentAI, a project that aims to revolutionize AI applications in the dental field.
-- ⭐ Actively learning OpenCV and diving into computer vision technologies, aiming to integrate them into future projects. Also learning Docker for containerization.
-- ⭐ Completed an internship where I collaborated on software development projects, enhancing my skills in programming and teamwork.
-- ⭐ Worked as a teaching assistant, helping students grasp complex concepts in programming and software development.
+- Student at Queen's University, specializing in Computer Engineering.
+- Currently working on DentAI, a project that aims to revolutionize AI applications in the dental field.
+- Actively learning OpenCV and diving into computer vision technologies, aiming to integrate them into future projects. Also learning Docker for containerization.
+- Completed an internship where I collaborated on software development projects, enhancing my skills in programming and teamwork.
+- Worked as a teaching assistant, helping students grasp complex concepts in programming and software development.
 
 ---
 
