@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/af7ef81d-fde5-4ddb-8878-26828778c71c" alt="Banner image" width="100%" />
 </p>
 
-<h1 align="center">Hi there! 👋 I'm Het  Buddhdev</h1>
+<h1 align="center">Hi there! 👋 I'm Het Buddhdev</h1>
 
 <p align="center">
   A Computer Engineering student committed to advancing the future of technology and AI applications.
