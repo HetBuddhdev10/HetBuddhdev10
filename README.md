@@ -65,7 +65,8 @@
   <img width="12" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo" />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/iccycK0zzYs10XFuFRWURj1JcAxh04-ECJwFMozxvnI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/c2Rvd25sb2FkLmNv/bS9sb2dvL3NjaWtp/dC1sZWFybi1sb2dv/LTUxMi5wbmc" height="40" alt="scikit-learn logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/EUHvXujN0c0LKGp1mDk6WuSIRqHitKn-H5M0mfVlUJU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9udW1m/b2N1cy5vcmcvd3At/Y29udGVudC91cGxv/YWRzLzIwMTYvMDcv/TWF0cGxvdGxpYl9M/b2dvXzE5MTIwOS5w/bmc" height="40" alt="matplotlib logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib logo" />
 </div>
+
