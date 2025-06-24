@@ -6,7 +6,7 @@
 
 ---
 
--   **Machine Learning Intern** at [Huawei Technologies](https://www.huawei.com/ca/)
+-   **AI Engineering Intern** at [Huawei Technologies](https://www.huawei.com/ca/)
 -   Specializing in **Large Language Models (LLMs)** and **Agentic Workflows**
 -   Currently pursuing a **Computer Engineering Degree** at Queen's University
 
